@@ -4,7 +4,7 @@
 
 <br>
 :school: I am a System Analysis and Development student at Instituto Federal Farroupilha - Brazil, currently in the 5th semester. :school:
-
+<br>
 :books: I'm currently learning :books: <br>
 <br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
