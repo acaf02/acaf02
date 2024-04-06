@@ -3,8 +3,8 @@
 ![Ana Carolina's Profile](https://capsule-render.vercel.app/api?type=waving&height=250&color=990000&text=Ana%20Carolina&fontColor=fffff0&fontSize=40&fontAlign=43&fontAlignY=31&animation=fadeIn&desc=Front-end%20Developer&descSize=25&descAlignY=49&descAlign=57&reversal=false)
 
 <br>
-:school: I am a System Analysis and Development student at Instituto Federal Farroupilha - Brazil, currently in the 5th semester. :school:
-<br>
+:school: I am a System Analysis and Development student at Instituto Federal Farroupilha - Brazil, currently in the 5th semester. :school: <br>
+
 :books: I'm currently learning :books: <br>
 <br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
