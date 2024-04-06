@@ -1,5 +1,5 @@
 <div align="center">
-[![waving](https://capsule-render.vercel.app/api?type=waving&height=100&text=Welcome,%20I'm%20Ana-nl-Front-end%20Developerme!&fontSizefontAlignY=40&color=990000)](https://capsule-render.vercel.app/api?type=waving&height=250&color=990000&text=Ana%20Carolina&fontColor=fffff0&fontSize=40&fontAlign=43&fontAlignY=31&animation=fadeIn&desc=Front-end%20Developer&descSize=25&descAlignY=49&descAlign=57&reversal=false)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=100&text=Welcome,%20I'm%20Ana-nl-Front-end%20Developerme!&fontSizefontAlignY=40&color=990000)](https://capsule-render.vercel.app/api?type=waving&height=250&color=990000&text=Ana%20Carolina&fontColor=fffff0&fontSize=40&fontAlign=43&fontAlignY=31&animation=fadeIn&desc=Front-end%20Developer&descSize=25&descAlignY=49&descAlign=57&reversal=false)
 
 :school: I am a System Analysis and Development student at Instituto Federal Farroupilha - Brazil, currently in the 5th semester. :school:
 
