@@ -2,7 +2,7 @@
 
 ![Ana Carolina's Profile](https://capsule-render.vercel.app/api?type=waving&height=250&color=990000&text=Ana%20Carolina&fontColor=fffff0&fontSize=40&fontAlign=43&fontAlignY=31&animation=fadeIn&desc=Front-end%20Developer&descSize=25&descAlignY=49&descAlign=57&reversal=false)
 
-:school: I am a System Analysis and Development student at Instituto Federal Farroupilha - Brazil, currently in the 5th semester. :school: <br>
+:school: I am a System Analysis and Development student at Instituto Federal Farroupilha - Brazil, currently in the 6th semester. :school: <br>
 <br>
 :books: I'm currently learning :books: <br>
 <br>
