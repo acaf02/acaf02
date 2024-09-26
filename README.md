@@ -1,7 +1,5 @@
 <div align="center">
 
-![Ana Carolina's Profile](https://capsule-render.vercel.app/api?type=waving&height=250&color=990000&text=Ana%20Carolina&fontColor=fffff0&fontSize=40&fontAlign=43&fontAlignY=31&animation=fadeIn&desc=Front-end%20Developer&descSize=25&descAlignY=49&descAlign=57&reversal=false)
-
 :school: I am a System Analysis and Development student at Instituto Federal Farroupilha - Brazil, currently in the 6th semester. :school: <br>
 <br>
 :books: I'm currently learning :books: <br>
@@ -29,7 +27,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/acaf02/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:anacarol.alves1@outlook.com)
 
-:chart_with_upwards_trend: My Stats :chart_with_upwards_trend: <br>
 <br>
 <div>
 <a href="https://github.com/acaf02">
