@@ -43,9 +43,9 @@ In addition to my studies, I work as a trainee programmer at Compass OUL, where 
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
   <a href="https://www.linkedin.com/in/ana-carolina-alves-farias-8a998b266/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/acaf02/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
