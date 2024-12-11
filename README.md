@@ -3,7 +3,6 @@
 <p align="left"> 
  Hi! I'm Ana! <br>
 I am a Systems Analysis and Development student at Instituto Federal Farroupilha, Brazil, currently in the 6th semester. <br>
-In addition to my studies, I work as a trainee programmer at Compass OUL, where I am developing my skills as a developer.<br>
 <br>
   
 </p>
