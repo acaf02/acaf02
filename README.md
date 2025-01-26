@@ -8,21 +8,21 @@
 <p align="left">
   <h3>🦄 Languages: </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,jquery,java,php,postgres,mysql" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,jquery,java,php,postgres,mysql&perline=6" alt="Languages" />
   </a>
 </p>
 
 <p align="left">
   <h3>💼 Tools: </h3> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,figma,postman" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma,postman&perline=6" alt="Tools" />
   </a>
 </p>
 
 <p align="left">
   <h3>📚 Currently Learning:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,spring" alt="Current Learning" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,spring&perline=6" alt="Current Learning" />
   </a>
 </p>
 
