@@ -22,7 +22,7 @@
 <p align="left">
   <h3>📚 Currently Learning:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,spring&perline=6" alt="Current Learning" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind&perline=6" alt="Current Learning" />
   </a>
 </p>
 
